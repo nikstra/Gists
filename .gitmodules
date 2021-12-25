@@ -1,3 +1,303 @@
 [submodule "HelloWorld"]
 	path = HelloWorld
 	url = https://gist.github.com/nikstra/cda5f8ace1be029792c123910abb9a87
+[submodule "Ctor2Snippet"]
+	path = Ctor2Snippet
+	url = https://gist.github.com/nikstra/6d8a3f16960d49c520a9d08fb4949735
+[submodule "Ctor1Snippet"]
+	path = Ctor1Snippet
+	url = https://gist.github.com/nikstra/aa7e5bffa338086fbd63f935e1889785
+[submodule "GenJekyllPlaceholderPost"]
+	path = GenJekyllPlaceholderPost
+	url = https://gist.github.com/nikstra/5ef1f31c8cf63d9dbd563ede001b6936
+[submodule "JsonDeserializeToDynamic"]
+	path = JsonDeserializeToDynamic
+	url = https://gist.github.com/nikstra/467fde955d332c603c279921f5635b43
+[submodule "PahtRelations"]
+	path = PahtRelations
+	url = https://gist.github.com/nikstra/896b623f8097419b3fa6138cc8e6e33d
+[submodule "DuplicatesList"]
+	path = DuplicatesList
+	url = https://gist.github.com/nikstra/72c40e2b548e88ec0374951ecbce36fd
+[submodule "SolutionToFoldersQuestion"]
+	path = SolutionToFoldersQuestion
+	url = https://gist.github.com/nikstra/1ff2d84788704b69867c4390b238179f
+[submodule "CharCompare"]
+	path = CharCompare
+	url = https://gist.github.com/nikstra/913ee6d9983c23c75a49293f25fa270a
+[submodule "CompareAAInAllCultures"]
+	path = CompareAAInAllCultures
+	url = https://gist.github.com/nikstra/651ed8b94e5908cfb1963b0f72b20313
+[submodule "CulturesWhereAAndAIsDifferent"]
+	path = CulturesWhereAAndAIsDifferent
+	url = https://gist.github.com/nikstra/d5ae391b6c109a1f002e22f7ab3d6557
+[submodule "FizzBuzz"]
+	path = FizzBuzz
+	url = https://gist.github.com/nikstra/241ec7935eb5ffb353c94e585214f4c1
+[submodule "FizzBuzzExtended"]
+	path = FizzBuzzExtended
+	url = https://gist.github.com/nikstra/067ab6f4f5fcd2ea20971dd5340f805b
+[submodule "EFCoreLogging"]
+	path = EFCoreLogging
+	url = https://gist.github.com/nikstra/48b45745fc8ec866d86f146a8100566e
+[submodule "PropNotify1stSnippet"]
+	path = PropNotify1stSnippet
+	url = https://gist.github.com/nikstra/5d9f2b4ba72b6954f8aac4352901a714
+[submodule "PropNotifySnippet"]
+	path = PropNotifySnippet
+	url = https://gist.github.com/nikstra/d5b6bfa5dfb88da64749e0e0541379af
+[submodule "VS2017Debugging"]
+	path = VS2017Debugging
+	url = https://gist.github.com/nikstra/94e678a08a3c23d9e6d59aca68a5fafb
+[submodule "DataRowToHashSet"]
+	path = DataRowToHashSet
+	url = https://gist.github.com/nikstra/9cbb3daa180728c4357d8e68fa4e3704
+[submodule "EqualityComparer"]
+	path = EqualityComparer
+	url = https://gist.github.com/nikstra/f85af31f0874d465647d0785ac9c5681
+[submodule "VirtualBoxStartHeadless"]
+	path = VirtualBoxStartHeadless
+	url = https://gist.github.com/nikstra/95b293da0d46e81df5466aefb9f45eb5
+[submodule "CreateProductsTableSql"]
+	path = CreateProductsTableSql
+	url = https://gist.github.com/nikstra/39cb360180bfc7c729ab785e59d3c5a3
+[submodule "DockerWrapper"]
+	path = DockerWrapper
+	url = https://gist.github.com/nikstra/ff9876eb1dcb7dab21fc15acb6316cde
+[submodule "CSSFocusHoverBehaviour"]
+	path = CSSFocusHoverBehaviour
+	url = https://gist.github.com/nikstra/f1cf4e81aa50ff1914f801bc3c003d0b
+[submodule "RedirectProcessIO"]
+	path = RedirectProcessIO
+	url = https://gist.github.com/nikstra/ce83c74b96fe521c69d0d3864e82a1c6
+[submodule "QuerystringFilters"]
+	path = QuerystringFilters
+	url = https://gist.github.com/nikstra/a4f2e30d35ec208274d2075286e6e14a
+[submodule "CultureInfoLab"]
+	path = CultureInfoLab
+	url = https://gist.github.com/nikstra/95fc561425f801fa79daec716d0f534f
+[submodule "FluentApiForceCallOrder"]
+	path = FluentApiForceCallOrder
+	url = https://gist.github.com/nikstra/81d3b247bb1aef671f3692fb5650476c
+[submodule "IEnumerableLastElement"]
+	path = IEnumerableLastElement
+	url = https://gist.github.com/nikstra/ebb2c9bd9a761fd1b9d74968f732661a
+[submodule "PassLocalFunctionToSelect"]
+	path = PassLocalFunctionToSelect
+	url = https://gist.github.com/nikstra/78c3e52875eeb045a51bdd55321e19c6
+[submodule "WebCircleWithAlphabet"]
+	path = WebCircleWithAlphabet
+	url = https://gist.github.com/nikstra/2b705d3c17c4035e3de0a2d07ed16a1c
+[submodule "ExpressionTreeEfFunctions"]
+	path = ExpressionTreeEfFunctions
+	url = https://gist.github.com/nikstra/7d31650fc539215e00760fe8eb5eafdb
+[submodule "ExpressionMethods"]
+	path = ExpressionMethods
+	url = https://gist.github.com/nikstra/b5d4911bfb7b10d06e14936d23425edb
+[submodule "ChangeDbCollationEfCore"]
+	path = ChangeDbCollationEfCore
+	url = https://gist.github.com/nikstra/6f46b22291ddab58ccf30e50336ceaf0
+[submodule "RawSqlEfCore"]
+	path = RawSqlEfCore
+	url = https://gist.github.com/nikstra/84258c29da835279de0520d28778e101
+[submodule "EntityInheritanceEfCore"]
+	path = EntityInheritanceEfCore
+	url = https://gist.github.com/nikstra/8bfb2cc97a4aedec3d86e89774235c1e
+[submodule "FluentQueryBuilder"]
+	path = FluentQueryBuilder
+	url = https://gist.github.com/nikstra/a7643dd58c0f377f4c97e048babb7598
+[submodule "YearFromTwoDigits"]
+	path = YearFromTwoDigits
+	url = https://gist.github.com/nikstra/b43873b31f0a07fecc65615dfb006131
+[submodule "StringBuilderSubstrings"]
+	path = StringBuilderSubstrings
+	url = https://gist.github.com/nikstra/bd3b5875ee70b1bf3715aec1787749e5
+[submodule "VisitorDesignPattern"]
+	path = VisitorDesignPattern
+	url = https://gist.github.com/nikstra/c93e8a3f0047d171ae5783ddd7393b1e
+[submodule "CastingGetDbConnectionToSqlConnection"]
+	path = CastingGetDbConnectionToSqlConnection
+	url = https://gist.github.com/nikstra/50f0dcfa44b175dbca3f30cf81ee6683
+[submodule "BashGetSftpFileCount"]
+	path = BashGetSftpFileCount
+	url = https://gist.github.com/nikstra/9a7b87ce7c39504f9cef6fb7bd4b7786
+[submodule "StrategyPattern"]
+	path = StrategyPattern
+	url = https://gist.github.com/nikstra/105ba2e61c212df3d98c52489addd181
+[submodule "TreeTraversal"]
+	path = TreeTraversal
+	url = https://gist.github.com/nikstra/90f5ece8909c337650a8d878f9c2725f
+[submodule "GroupingByFuzzyTime"]
+	path = GroupingByFuzzyTime
+	url = https://gist.github.com/nikstra/b204201efa0487c75b615064467bdc85
+[submodule "MoveToLinkedList"]
+	path = MoveToLinkedList
+	url = https://gist.github.com/nikstra/ff8a602c13dba26c491f296f05604ada
+[submodule "RoundingUpToNearest"]
+	path = RoundingUpToNearest
+	url = https://gist.github.com/nikstra/9118307f7b31fd1e6718ca4fe4f39d29
+[submodule "TSQLDecimalToGeographyPoint"]
+	path = TSQLDecimalToGeographyPoint
+	url = https://gist.github.com/nikstra/3141fb8d00feb3389c9d3fc33fd75ddb
+[submodule "ZoneStateMachine"]
+	path = ZoneStateMachine
+	url = https://gist.github.com/nikstra/ad712fe56e84a8108414258531a1f1b9
+[submodule "DistributeByPercentage"]
+	path = DistributeByPercentage
+	url = https://gist.github.com/nikstra/5176f5d4de08dbcc0c54fc62c734b3bf
+[submodule "CopyNestedIReadonlyCollection"]
+	path = CopyNestedIReadonlyCollection
+	url = https://gist.github.com/nikstra/67c1184006979dcf1323b085d5f13298
+[submodule "AddDistanceToGpsCoordinate"]
+	path = AddDistanceToGpsCoordinate
+	url = https://gist.github.com/nikstra/d2267012bc93a19fecb096e4c6518cfb
+[submodule "SafeEfSqlQuery"]
+	path = SafeEfSqlQuery
+	url = https://gist.github.com/nikstra/15c8ae041358c2dd377927118b1a0964
+[submodule "SqlServerSpatialDataBasics"]
+	path = SqlServerSpatialDataBasics
+	url = https://gist.github.com/nikstra/1ea893e7e227f07a8bf2af6026996607
+[submodule "StateMachine"]
+	path = StateMachine
+	url = https://gist.github.com/nikstra/a3115634a75752e4a3720704d486e405
+[submodule "ArraySegmentVsSpan"]
+	path = ArraySegmentVsSpan
+	url = https://gist.github.com/nikstra/4e997093f79a132b174498ad6f0bf286
+[submodule "EfJoinOnCompositeKey"]
+	path = EfJoinOnCompositeKey
+	url = https://gist.github.com/nikstra/d47e74461a7b232e0e2bb88f60804431
+[submodule "SpansAndSlices"]
+	path = SpansAndSlices
+	url = https://gist.github.com/nikstra/b6ed7322ce0316128f22c2c8b0740edc
+[submodule "ReturnNestedIReadOnlyCollection"]
+	path = ReturnNestedIReadOnlyCollection
+	url = https://gist.github.com/nikstra/977b759496fed29b0ef5b98f7d13ba58
+[submodule "TSQLCopyIntoSameTable"]
+	path = TSQLCopyIntoSameTable
+	url = https://gist.github.com/nikstra/c75f8e0ee6beccfcf8ed7c2c7dc966f5
+[submodule "JsonDeserializeNested"]
+	path = JsonDeserializeNested
+	url = https://gist.github.com/nikstra/065587852fba650632ef77fccc1b17a0
+[submodule "TSQLGeoBoundingBox"]
+	path = TSQLGeoBoundingBox
+	url = https://gist.github.com/nikstra/27142035739eed954bdcf4eb6d9af327
+[submodule "FizzBuzzBranchless"]
+	path = FizzBuzzBranchless
+	url = https://gist.github.com/nikstra/ab38095bf9b761344b2ab887ce327c77
+[submodule "RecordProjection"]
+	path = RecordProjection
+	url = https://gist.github.com/nikstra/0c5a2e4679238d71560f67388c14cc41
+[submodule "TestIfAllIsOverridden"]
+	path = TestIfAllIsOverridden
+	url = https://gist.github.com/nikstra/6558fdbd8b3b3ad0fb7d170bd9dbcee6
+[submodule "EfOwnedIndexer"]
+	path = EfOwnedIndexer
+	url = https://gist.github.com/nikstra/7c7b8bfd2dbf4b37ac50e7742efcdb8c
+[submodule "AspNetCoreRoutingAndAreas"]
+	path = AspNetCoreRoutingAndAreas
+	url = https://gist.github.com/nikstra/2daed1bb7edae6724b078c3a4227edf5
+[submodule "AspNetCoreBackToReferrer"]
+	path = AspNetCoreBackToReferrer
+	url = https://gist.github.com/nikstra/6954253eab1ad46860647eb56bb0cef7
+[submodule "ZoneStateMachineAlternative"]
+	path = ZoneStateMachineAlternative
+	url = https://gist.github.com/nikstra/dfeffe40b224bbe55c6924bc3d84b763
+[submodule "SwitchExpressionStateMachine"]
+	path = SwitchExpressionStateMachine
+	url = https://gist.github.com/nikstra/fa46339f7adddb0122256c2a8dd0398d
+[submodule "MatrixMultiplication"]
+	path = MatrixMultiplication
+	url = https://gist.github.com/nikstra/fa975cada8633e2208aa2b696814273d
+[submodule "NoBackingFieldForGetOnlyProperties"]
+	path = NoBackingFieldForGetOnlyProperties
+	url = https://gist.github.com/nikstra/1b61842f3555ca9b552f5af83df3d4aa
+[submodule "PatternMatchingIsNotNull"]
+	path = PatternMatchingIsNotNull
+	url = https://gist.github.com/nikstra/af03bf1dfa563227358b62415bff90d3
+[submodule "ArrayCompare"]
+	path = ArrayCompare
+	url = https://gist.github.com/nikstra/27e51569d3c04897f664744ffb2f53e5
+[submodule "EfCoreUpdateRelatedEntities"]
+	path = EfCoreUpdateRelatedEntities
+	url = https://gist.github.com/nikstra/075517373b9618af3dc4a9294b106d81
+[submodule "ITUTE164PhoneNumbers"]
+	path = ITUTE164PhoneNumbers
+	url = https://gist.github.com/nikstra/adc9af6bc0318d465721da2003be7119
+[submodule "DebuggerTypeProxy"]
+	path = DebuggerTypeProxy
+	url = https://gist.github.com/nikstra/46ca24a61ab8b6bc1124d6a4beee39e2
+[submodule "AspNetCoreRazorTextAfterValidationSummary"]
+	path = AspNetCoreRazorTextAfterValidationSummary
+	url = https://gist.github.com/nikstra/a7d36c4d7c55fa2ac341e5a2418fd6b2
+[submodule "MockHttpClient"]
+	path = MockHttpClient
+	url = https://gist.github.com/nikstra/aaa5bb09ce54c26dc3487b2d2c78d413
+[submodule "LambdaFromExpression"]
+	path = LambdaFromExpression
+	url = https://gist.github.com/nikstra/a30f7a0290cc8f29d1f769123c990971
+[submodule "ClosureSubstitute"]
+	path = ClosureSubstitute
+	url = https://gist.github.com/nikstra/82dfb03bfb36c375d6c54b8bd0b59514
+[submodule "GetEveryNthElementWithoutClosure"]
+	path = GetEveryNthElementWithoutClosure
+	url = https://gist.github.com/nikstra/ba9745b11bb3a28c9db5741c5a27b9be
+[submodule "RotateMatrix"]
+	path = RotateMatrix
+	url = https://gist.github.com/nikstra/e52eb5918d8160e383212608356a045d
+[submodule "SumOfTwo"]
+	path = SumOfTwo
+	url = https://gist.github.com/nikstra/f9f517d77ce2347700f301c6d35a61b4
+[submodule "SquareElements"]
+	path = SquareElements
+	url = https://gist.github.com/nikstra/e401336b7e2270df4b40bea834862e95
+[submodule "FirstDuplicate"]
+	path = FirstDuplicate
+	url = https://gist.github.com/nikstra/0cab3cd4cf12741f310c2546c62b16a9
+[submodule "MaximumSubarraySum"]
+	path = MaximumSubarraySum
+	url = https://gist.github.com/nikstra/9ab076ccbfee5e703b5524150f9b5924
+[submodule "ReadableQueryFilter"]
+	path = ReadableQueryFilter
+	url = https://gist.github.com/nikstra/5c2d4f774f5cb102b9c74357b1a0cda6
+[submodule "AddendsAndSubtrahends"]
+	path = AddendsAndSubtrahends
+	url = https://gist.github.com/nikstra/fbd186c28da5cb7a2386284022dda8d3
+[submodule "DateTimeModulo"]
+	path = DateTimeModulo
+	url = https://gist.github.com/nikstra/c8ff5168862e0d823a814f12594eb232
+[submodule "SplitCollectionByValue"]
+	path = SplitCollectionByValue
+	url = https://gist.github.com/nikstra/a0b8b7f366f1648818818d5a79abb2fb
+[submodule "StringInterpolation"]
+	path = StringInterpolation
+	url = https://gist.github.com/nikstra/01086b47f6634f01162a29f9011eeae8
+[submodule "DirStack"]
+	path = DirStack
+	url = https://gist.github.com/nikstra/5b65fc242170c02248084de7867aef4a
+[submodule "MemoizeFibonacci"]
+	path = MemoizeFibonacci
+	url = https://gist.github.com/nikstra/08a4b78622a40fefacd7163112f38fbb
+[submodule "FlagsEnumWithoutBoxing"]
+	path = FlagsEnumWithoutBoxing
+	url = https://gist.github.com/nikstra/f5e96cbe9f5039b8dd35fa3b75d055a5
+[submodule "ImmutableItem"]
+	path = ImmutableItem
+	url = https://gist.github.com/nikstra/4a64f9fe9dd70eae800bad833bbe7053
+[submodule "PartialClassDebuggerDisplay"]
+	path = PartialClassDebuggerDisplay
+	url = https://gist.github.com/nikstra/8513f0be9e22745cbff1b8ab37c9016b
+[submodule "CreateDelegate"]
+	path = CreateDelegate
+	url = https://gist.github.com/nikstra/580c4d121fbcef27de9eaf8bbf6960c9
+[submodule "EnumToNamedTuple"]
+	path = EnumToNamedTuple
+	url = https://gist.github.com/nikstra/aae566aa60bc6f9f46ce7c38caaf4f22
+[submodule "GenericEnumBitwise"]
+	path = GenericEnumBitwise
+	url = https://gist.github.com/nikstra/2e4cb376a54696bb663f01a404c2244a
+[submodule "ReverseStringWithAggregateAndNamedTuple"]
+	path = ReverseStringWithAggregateAndNamedTuple
+	url = https://gist.github.com/nikstra/f9d4f54d7c36eb27319547f63076f589
+[submodule "ToFromExcelColumnName"]
+	path = ToFromExcelColumnName
+	url = https://gist.github.com/nikstra/75225565f6140af71aed34ae10d8448a
